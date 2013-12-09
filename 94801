@@ -1,0 +1,10 @@
+theman
+======
+git init
+git add readme.md
+git commit -m "first commit"
+git romote add orgin https://github.com/94801/theman.git
+git push -u origin master
+
+git remote add orgin https://github.com/94801/theman.git
+git push -orgin master
